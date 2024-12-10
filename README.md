@@ -34,8 +34,7 @@ El concepto del proyecto se basa en un cine comunitario, en el cual se exhibirí
 
 # Restricciones del Proyecto
 
-El desarrollo del sistema siguió las siguientes restricciones:
-- No se permitió el uso de:
+El desarrollo del sistema siguió las siguientes restricciones. No se permitió el uso de:
   1. Vectores
   2. Listas
   3. Arrays
