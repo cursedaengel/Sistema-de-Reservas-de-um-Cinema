@@ -1,13 +1,5 @@
-                                     *   ˚ ✵      
-           ╭┈                      .· * • ˚            
-           │                   ✶   : · •
-          │                           .· *
-           │                      ✵ ˚ : ·  
-           ╰────────✬      * ˚ ✶
-                                                     .   · *
-                                                          ˚ .
-
-------------- Sistema-de-Reservas-de-um-Cinema (PT-BR)
+｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*: 
+Sistema-de-Reservas-de-um-Cinema (PT-BR) 🇧🇷
 
 O projeto foi desenvolvido para a disciplina de Laboratório de Programação, ministrada pelo professor Caetano Segundo. O objetivo desse sistema é gerenciar as reservas de um cinema, permitindo que os usuários reservem, consultem e cancelem reservas de poltronas para uma sessão de filme.
 
@@ -34,7 +26,8 @@ O sistema desempenhou-se em cumprir as seguintes funcionalidades:
 
 ---
 
------------- Sistema de Reservas de Cine (ES)
+｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*: 
+Sistema de Reservas de Cine (ES) 🇪🇸
 
 Este proyecto fue desarrollado para la asignatura de Laboratorio de Programación, impartida por el profesor Caetano Segundo. El objetivo del sistema es gestionar las reservas de un cine, permitiendo que los usuarios reserven, consulten y cancelen reservas de asientos para una sesión de película.
 
